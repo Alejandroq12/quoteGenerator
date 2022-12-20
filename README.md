@@ -60,15 +60,6 @@ This is a quote generator in which asynchronous requests are made.
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -87,7 +78,7 @@ This is a quote generator in which asynchronous requests are made.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://alejandroq12.github.io/quoteGenerator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
