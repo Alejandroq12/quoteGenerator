@@ -60,15 +60,6 @@ This is a quote generator in which asynchronous requests are made.
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
