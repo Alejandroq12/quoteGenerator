@@ -53,8 +53,6 @@ This is a quote generator in which asynchronous requests are made.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
