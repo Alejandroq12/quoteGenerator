@@ -17,7 +17,7 @@
 
 - [quoteGenerator](#quotegenerator)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- [📖 \[Quotes Generator\] ](#-quotes-generator-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -39,7 +39,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Quotes Generator] <a name="about-project"></a>
 
 This is a quote generator in which asynchronous requests are made.
 1- The DOM is manipulated;
