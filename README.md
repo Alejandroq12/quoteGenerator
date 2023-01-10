@@ -216,9 +216,6 @@ I would like to thank..
 
   - [Answer_1]
 
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
