@@ -3,7 +3,7 @@
 <a name="readme-top">Quotes generator</a>
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src=".png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Quotes generator</b></h3>
