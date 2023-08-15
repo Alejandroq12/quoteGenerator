@@ -38,7 +38,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Quotes Generator] <a name="about-project"></a>
+# 📖 Quotes Generator <a name="about-project"></a>
 
 This is a quote generator in which asynchronous requests are made.
 1- The DOM is manipulated;
