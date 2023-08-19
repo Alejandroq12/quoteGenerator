@@ -16,7 +16,7 @@
 
 - [quoteGenerator](#quotegenerator)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Quotes Generator\] ](#-quotes-generator-)
+- [📖 Quotes Generator ](#-quotes-generator-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -228,7 +228,6 @@ I would like to thank..
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
