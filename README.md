@@ -3,8 +3,7 @@
 <a name="readme-top">Quotes generator</a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src=".png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Quotes generator</b></h3>
@@ -39,7 +38,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Quotes Generator] <a name="about-project"></a>
+# 📖 Quotes Generator <a name="about-project"></a>
 
 This is a quote generator in which asynchronous requests are made.
 1- The DOM is manipulated;
@@ -63,8 +62,6 @@ This is a quote generator in which asynchronous requests are made.
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -214,8 +211,6 @@ I would like to thank..
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
